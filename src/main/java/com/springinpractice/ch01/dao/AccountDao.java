@@ -8,4 +8,6 @@
 package com.springinpractice.ch01.dao;
 
 public interface AccountDao {
+	
+	int x =1;
 }
